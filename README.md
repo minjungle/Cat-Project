@@ -1,4 +1,3 @@
 # Cat-Project
-# Cat-Project
-# Cat-Project
-# Cat-Project
+
+January, Maddy, Timmy, Dawn 
