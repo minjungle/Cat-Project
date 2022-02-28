@@ -1,0 +1,37 @@
+div {
+    background-color: peachpuff;
+    font-family: 'Viga', sans-serif; 
+    font-size: 30px; 
+    color: black; 
+  }
+
+h1 {
+    font-size: 80px;
+    font-family: 'Titan One', cursive;
+    text-align: center; 
+    color: rgb(31, 21, 12); 
+
+
+
+}
+
+h2 {
+    font-family: 'Titan One', cursive;
+    font-size: 50px; 
+    text-align: center; 
+    color: black; 
+}
+
+p {
+   font-size: 30px; 
+    font-family: 'Viga', sans-serif; 
+}
+
+
+img {
+    height: 300px; 
+    border-radius: solid; 
+    border: 7px ridge peru;
+      border-radius: 20px;
+}
+
